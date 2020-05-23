@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Asus\\Desktop\\Test\\Test\\Test.csproj",
+      "projectUniqueName": "C:\\Users\\Asus\\Documents\\Git\\Test\\Test\\Test.csproj",
       "projectName": "Test",
-      "projectPath": "C:\\Users\\Asus\\Desktop\\Test\\Test\\Test.csproj",
+      "projectPath": "C:\\Users\\Asus\\Documents\\Git\\Test\\Test\\Test.csproj",
       "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Asus\\Desktop\\Test\\Test\\obj\\",
+      "outputPath": "C:\\Users\\Asus\\Documents\\Git\\Test\\Test\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Asus\\AppData\\Roaming\\NuGet\\NuGet.Config",
